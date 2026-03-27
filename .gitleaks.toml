@@ -1,0 +1,8 @@
+[allowlist]
+  description = "Global Allowlist"
+
+  # Ignore based on any subset of the line
+  regexes = [
+    '''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0LXVzZXIiLCJuYW1lIjoiSm9obiBEb2UifQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c'''
+  ]
+
